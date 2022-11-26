@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @pritish3006
 - 👀 I’m interested in AI, Deep Learning, Computer Vision, Machine Learning, Natural Language Processing and everything else AI
-- 🌱 I’m currently learning about AI basics, robotics, ML, 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: Email me @ pritish[dot]mishra[at]protonmail[dot]ch
+- 🌱 I’m currently learning about Artificial Intelligence, 
+- 💞️ I am always excited to find new and exciting AI projects to work on, so feel free to reach out to me if you have a project that you need collaborators on.
+- 📫 How to reach me: Email me @ pritish[dot]mishra[at]proton[dot]me
 
 <!---
 pritish3006/pritish3006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
