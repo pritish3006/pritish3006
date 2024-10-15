@@ -1,8 +1,7 @@
 - 👋 Hi, My name is Pritish Mishra.
-- 📚 I graduated with a bachelor's in Computer Science and Economics from Case Western Reserve University in May 2023.
 - 👀 I’m interested in AI, Deep Learning, Computer Vision, Machine Learning, Natural Language Processing and everything else AI
-- 🌱 I’m currently exploring and building Neural Networks, Computer Vision Models, LLMs, etc. 
-- 💞️ I am always excited to find new and exciting AI projects to work on, so feel free to reach out to me if you have a project that you need collaborators on.
+- 🌱 My most recent work here includes a mix of research, reproduction, and other AI related projects focused on Deep Learning, Generative AI, Embedded AI systems, and some software projects. 
+- 💞️ I am always excited to find new and exciting AI projects to work on, and would love to find new collaborators to work with.
 - 📫 How to reach me: Email me @ pritish[dot]mishra[at]proton[dot]me
 
 <!---
